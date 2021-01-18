@@ -16,7 +16,7 @@ python3 main.py --column 1
 ### Number of cured
 python3 main.py --column 2
 
-### Počet aktívnych prípadov
+### Number of active cases
 python3 main.py --column 3
 
 ### Number of tests
