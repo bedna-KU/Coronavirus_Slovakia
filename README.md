@@ -1,6 +1,8 @@
 # Coronavirus_Slovakia
 Show graphs with Covid tests and others
 
+For Slovak https://linuxos.sk/blog/zumpa/detail/atomova-bomba-na-korovanvirus/
+
 ## Install
 git clone https://github.com/bedna-KU/Coronavirus_Slovakia.git
 
